@@ -22,6 +22,11 @@
 
 
 >## 🍕 Layout do projeto</h1>
-![top-pizzaria](https://user-images.githubusercontent.com/110351770/222176748-8f965e9c-4db2-4c57-92bd-99e37d17999c.PNG)
+
+![top-pizzaria](https://user-images.githubusercontent.com/110351770/222240164-b57507f8-86f2-4e5e-a992-62965d259948.jpg)
+
+
+
+
 
 Você pode visualizar o projeto através [DESSE LINK](https://top-pizzaria-m19l7ia2d-amandaluizafreitas.vercel.app/)
