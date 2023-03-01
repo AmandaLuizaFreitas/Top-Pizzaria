@@ -21,7 +21,7 @@
 
 
 
->## 🔖 Layout do projeto</h1>
+>## 🍕 Layout do projeto</h1>
 ![top-pizzaria](https://user-images.githubusercontent.com/110351770/222176748-8f965e9c-4db2-4c57-92bd-99e37d17999c.PNG)
 
 Você pode visualizar o projeto através [DESSE LINK](https://top-pizzaria-m19l7ia2d-amandaluizafreitas.vercel.app/)
